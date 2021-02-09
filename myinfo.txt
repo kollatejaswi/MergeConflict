@@ -1,4 +1,4 @@
 hello 
-i am a developer2
-i am from vizag
+i am a developer1
+i am from rajam
 i like travelling
